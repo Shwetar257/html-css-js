@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1 style="background-color:rgba(184, 131, 82, 0.699);">My First Heading</h1>
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">My First Heading</h2>
+<h3>My First Heading</h3>
+<p style="background-color:blue">My first paragraph.</p>
+<p style="color:red;">my first colour paragraph</p><br>
+<a href="https://github.com/Shwetar257">this is my github</a><br>
+<img src="sr pic.jpg" alt="me" width="123" height="55">
+
+
+
+</body>
+</html>

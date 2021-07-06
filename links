@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>link examples</title>
+    <h1>simple link</h1>
+    <a href="https://github.com/Shwetar257">my github</a>
+    <h1>image as a link</h1>
+    <a href="default.asp">
+    <img src="github-mark.png" alt="github" style="width:42px;height:42px;"></a>
+    <h1>mail link</h1>
+    <a href="mailto:shwetar257@gmail.com">send an email</a>
+</head>
+<body>
+    
+</body>
+</html>

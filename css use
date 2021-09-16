@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY FIRST HTML</title>
+    <style> 
+    #demo {
+        color: red ;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+        border-style: dashed;
+    }
+#demo1{
+  color:burlywood;
+  margin-bottom: 30px;
+  border-style:  dotted dashed solid double;;
+}
+    </style>
+   
+</head>
+<body background-color:light blue>
+  <h1 id=demo>Using border </h1>  
+  <h1 id=demo1>using 2nd border</h1>
+</body>
+</html>

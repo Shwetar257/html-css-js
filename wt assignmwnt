@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <title>Image with text</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+<p> <img src="ambu.jpg" width="500px" alt="IMG NOT FOUND"> 
+
+GVK EMRI (Emergency Management and Research Institute) is a pioneer in Emergency Management 
+Services in India.
+As a not-for-profit professional organization operating in the public Private Partnership (PPP) mode, 
+GVK EMRI
+is the only professional Emergency Service Provider in India today. GVK EMRI handles medical, police 
+and fire emergencies 
+through the "1-0-8 Emergency service". This is a free service delivered through state - of - art 
+emergency call response 
+centers and has over 2600 ambulance across Andhra Pradesh. <br>Gujrat, Uttarakhand, Goa, Chennai, 
+Rajasthan, Karnataka,
+Assam Meghalaya and Madhya Pradesh with the expansion of fleet and services set to spread across 
+more state, GVK EMRI
+will have more than 10000 ambulance covering over a billion population by 2011. 
+</p>
+</body>
+</html>
